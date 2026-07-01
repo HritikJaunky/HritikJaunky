@@ -19,5 +19,5 @@ I am passionate about networking, Linux systems, cybersecurity fundamentals and 
 ## 📫 Connect with Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR-LINK
+https://www.linkedin.com/in/hritik-jaunky-3087471a7
 
