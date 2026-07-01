@@ -16,14 +16,9 @@ I am passionate about networking, Linux systems, cybersecurity fundamentals and 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HritikJaunky&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HritikJaunky&layout=compact)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
 
 ---
-
 ## 📫 Connect with Me
 
 LinkedIn:
