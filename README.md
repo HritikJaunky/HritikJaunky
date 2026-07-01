@@ -16,9 +16,6 @@ I am passionate about networking, Linux systems, cybersecurity fundamentals and 
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HritikJaunky)](https://github.com/HritikJaunky)
-
----
 ## 📫 Connect with Me
 
 LinkedIn:
